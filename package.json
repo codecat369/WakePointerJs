@@ -4,7 +4,7 @@
   "description": "Javascript and Typescript Wake Pointer Library.",
   "main": "test.js",
   "scripts": {
-    "test": "tsc -w & live-server"
+    "start": "tsc -w & live-server"
   },
   "repository": {
     "type": "git",

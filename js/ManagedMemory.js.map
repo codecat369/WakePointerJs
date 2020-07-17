@@ -1,1 +1,1 @@
-{"version":3,"file":"ManagedMemory.js","sourceRoot":"","sources":["../src/ManagedMemory.ts"],"names":[],"mappings":";;;AAEA;IAAA;IAEA,CAAC;IAAD,oBAAC;AAAD,CAAC,AAFD,IAEC;AAFY,sCAAa"}
+{"version":3,"file":"ManagedMemory.js","sourceRoot":"","sources":["../src/ManagedMemory.ts"],"names":[],"mappings":";;;AAIA;IAAA;IAWA,CAAC;IAPU,2BAAG,GAAV,UAAW,OAAuB;QAC9B,IAAG,OAAO,CAAC,MAAM,KAAG,IAAI,CAAC,MAAM,EAC/B;YACI,MAAM,IAAI,KAAK,CAAC,qCAAqC,CAAC,CAAC;SAC1D;QACD,OAAO,IAAI,CAAC,QAAQ,CAAC,OAAO,CAAC,OAAO,CAAC,CAAC;IAC1C,CAAC;IACL,oBAAC;AAAD,CAAC,AAXD,IAWC;AAXY,sCAAa"}
