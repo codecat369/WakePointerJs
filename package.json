@@ -1,0 +1,23 @@
+{
+  "name": "wakepointerjs",
+  "version": "1.0.0",
+  "description": "Javascript and Typescript Wake Pointer Library.",
+  "main": "test.js",
+  "scripts": {
+    "test": "tsc -w & live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codecat369/WakePointerJs.git"
+  },
+  "keywords": [
+    "Wake",
+    "Pointer"
+  ],
+  "author": "CodeCat369",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codecat369/WakePointerJs/issues"
+  },
+  "homepage": "https://github.com/codecat369/WakePointerJs#readme"
+}
